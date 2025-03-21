@@ -3,16 +3,16 @@
 using namespace std;
 
 void cargarVector(int *v, int tam);
-void duplicarValor(int &);
+void duplicarValor(int []);
 void mostrarVector(int *v, int tam);
 
 
 int main()
 {
-    int valor = 10;
+    int valor = 20;
     const int valor2 = 15;
     int &referencia=valor;
-    duplicarValor(valor);
+    duplicarValor(&valor);
     cout<<"DIRECCION VALOR: "<<&valor<<endl;
     cout<<"DIRECCION REFERENCIA: "<<&referencia<<endl;
     cout<<"CONTENIDO DE VALOR: "<<valor<<endl;
@@ -52,8 +52,8 @@ void mostrarVector(int v[], int tam){
     }
 }
 
-void duplicarValor(int &x){
+void duplicarValor(int *x){
     cout<<"DIRECCION X: "<<&x<<endl;
     cout<<"CONTENIDO DE X: "<<x<<endl;
-    x = x * 2;
+    *x *= 2;
 }
