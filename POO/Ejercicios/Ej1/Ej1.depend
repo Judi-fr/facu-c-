@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1743521689 source:c:\users\ezeri\documents\facultad\poo\ejercicios\ej1\main.cpp
+	<iostream>
+	"clsRectangulo.h"
+
+1743523554 c:\users\ezeri\documents\facultad\poo\ejercicios\ej1\clsrectangulo.h
+
+1743523554 source:c:\users\ezeri\documents\facultad\poo\ejercicios\ej1\metodosrectangulo.cpp
+	<iostream>
+	"clsRectangulo.h"
+

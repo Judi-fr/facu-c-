@@ -4,31 +4,6 @@ using namespace std;
 
 int main()
 {
-    int tam;
-    int *vIn=nullptr;
-    cin>>tam;
-
-    vIn= new int[tam];
-
-    if(vIn==nullptr){
-        cout<<"nuuuuuuuuuuuuuuuuuul";
-    }
-    else{
-        int i;
-        for(i=0;i<tam;i++){
-            vIn[i]=i+1;
-        }
-        for(i=0;i<tam;i++){
-            cout<<vIn[i]<<endl;
-
-        }
-        delete[] vIn;
-    }
-
-
-
-
-
     int matrix[30][12][31]={};
     int cargar_matriz(int matriz[30][12][31]);
     void punto1(int matriz[30][12][31]);

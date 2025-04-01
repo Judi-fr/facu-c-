@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1743542392 source:c:\users\ezeri\documents\facultad\poo\ejercicios\ej2\ejercicio2\main.cpp
+	<iostream>
+	"clsDado.h"
+	<cstdlib>
+	<ctime>
+
+1743542426 c:\users\ezeri\documents\facultad\poo\ejercicios\ej2\ejercicio2\clsdado.h
+
+1743542331 source:c:\users\ezeri\documents\facultad\poo\ejercicios\ej2\ejercicio2\metodos_dados.cpp
+	<iostream>
+	"clsDado.h"
+	<cstdlib>
+	<ctime>
+
