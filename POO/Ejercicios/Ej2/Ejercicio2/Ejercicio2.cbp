@@ -32,7 +32,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="clsDado.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="metodos_dados.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
