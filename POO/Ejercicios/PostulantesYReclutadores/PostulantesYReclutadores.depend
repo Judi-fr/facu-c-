@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1743790468 source:c:\users\ezeri\documents\facultad\poo\ejercicios\postulantesyreclutadores\metodospostulante.cpp
+	"clsPostulante.h"
+	"clsReclutador.h"
+	<iostream>
+	<utility>
+
+1743790530 c:\users\ezeri\documents\facultad\poo\ejercicios\postulantesyreclutadores\clspostulante.h
+	<string>
+
+1743792342 source:c:\users\ezeri\documents\facultad\poo\ejercicios\postulantesyreclutadores\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<utility>
+	"clsPostulante.h"
+	"clsReclutador.h"
+
+1743790930 c:\users\ezeri\documents\facultad\poo\ejercicios\postulantesyreclutadores\clsreclutador.h
+	<string>
+
+1743792051 source:c:\users\ezeri\documents\facultad\poo\ejercicios\postulantesyreclutadores\metodosreclutador.cpp
+	<iostream>
+	"clsReclutador.h"
+
