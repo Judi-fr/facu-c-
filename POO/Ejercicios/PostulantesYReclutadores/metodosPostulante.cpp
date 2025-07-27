@@ -4,12 +4,23 @@
 #include <utility>
 
 
-Postulante::Postulante(string nombre, int edad, string puesto, int experiencia){
-    _nombre=nombre;
-    _edad = edad;
-    _puesto = puesto;
-    _experiencia =experiencia;
+///Postulante::Postulante(string nombre, int edad, string puesto, int experiencia){
+   /// _nombre=nombre;
+    ///_edad = edad;
+    ///_puesto = puesto;
+    ///_experiencia =experiencia;
 
+///}
+
+void Postulante::cargar(){
+    cout<<"Nombre: ";
+    cin>>_nombre;
+    cout<<"Edad: ";
+    cin>>_edad;
+    cout<<"Puesto: ";
+    cin>>_puesto;
+    cout<<"Experiencia: ";
+    cin>>_experiencia;
 }
 
 pair<int,int> Postulante::evaluar(int edadMin, int edadMax, string puesto1, string puesto2, string puesto3, int experiencia){
@@ -49,4 +60,11 @@ void Postulante::mostrarResultados(){
         return;
     }
     cout<<endl<<_nombre<<" "<<_evaluacion<<" la evaluacion."<<endl;
+}
+
+void Postulante::mostrarValores(){
+    cout<<_nombre<<endl;
+    cout<<_edad<<endl;
+    cout<<_puesto<<endl;
+    cout<<_experiencia<<endl;
 }

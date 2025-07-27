@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1746739052 source:c:\users\ezeri\documents\facultad\examen\restaurant\archivoserviciomesa.cpp
+	"Fecha.h"
+	"ArchivoServicioMesa.h"
+
+1746739052 c:\users\ezeri\documents\facultad\examen\restaurant\fecha.h
+	<string>
+
+1746739052 c:\users\ezeri\documents\facultad\examen\restaurant\archivoserviciomesa.h
+	<string>
+	"ServicioMesa.h"
+
+1746739052 c:\users\ezeri\documents\facultad\examen\restaurant\serviciomesa.h
+	"Fecha.h"
+
+1746739052 source:c:\users\ezeri\documents\facultad\examen\restaurant\fecha.cpp
+	"Fecha.h"
+
+1746739523 source:c:\users\ezeri\documents\facultad\examen\restaurant\serviciomesa.cpp
+	"ServicioMesa.h"
+
+1746746084 source:c:\users\ezeri\documents\facultad\examen\restaurant\main.cpp
+	"Examen.h"
+
+1746739052 c:\users\ezeri\documents\facultad\examen\restaurant\examen.h
+
+1746746122 source:c:\users\ezeri\documents\facultad\examen\restaurant\examen.cpp
+	<iostream>
+	"Examen.h"
+	"ServicioMesa.h"
+	"ArchivoServicioMesa.h"
+
+1746822301 source:c:\users\ezeri\documents\facultad\tp-integrador\funcionesmain.cpp
+	<iostream>
+	"funcionesMain.h"
+	<string>
+
+1746822246 c:\users\ezeri\documents\facultad\tp-integrador\funcionesmain.h
+	<string>
+	<iostream>
+	"1_clsSuscripcion.h"
+	"2_clsArchivos.h"
+	"3_clsCancion.h"
+	"4_clsAccesos.h"
+
+1746820853 c:\users\ezeri\documents\facultad\tp-integrador\1_clssuscripcion.h
+	<cstring>
+	"Fecha.h"
+
+1745288706 c:\users\ezeri\documents\facultad\tp-integrador\fecha.h
+
+1746820853 c:\users\ezeri\documents\facultad\tp-integrador\2_clsarchivos.h
+	<string>
+	"1_clsSuscripcion.h"
+	"3_clsCancion.h"
+	"4_clsAccesos.h"
+
+1746766068 c:\users\ezeri\documents\facultad\tp-integrador\3_clscancion.h
+	<cstring>
+	<string>
+	"Fecha.h"
+
+1745440214 c:\users\ezeri\documents\facultad\tp-integrador\4_clsaccesos.h
+	<cstring>
+	"Fecha.h"
+

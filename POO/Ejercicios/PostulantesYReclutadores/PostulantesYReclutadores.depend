@@ -1,14 +1,14 @@
 # depslib dependency file v1.0
-1743790468 source:c:\users\ezeri\documents\facultad\poo\ejercicios\postulantesyreclutadores\metodospostulante.cpp
+1744080134 source:c:\users\ezeri\documents\facultad\poo\ejercicios\postulantesyreclutadores\metodospostulante.cpp
 	"clsPostulante.h"
 	"clsReclutador.h"
 	<iostream>
 	<utility>
 
-1743790530 c:\users\ezeri\documents\facultad\poo\ejercicios\postulantesyreclutadores\clspostulante.h
+1744080134 c:\users\ezeri\documents\facultad\poo\ejercicios\postulantesyreclutadores\clspostulante.h
 	<string>
 
-1743792342 source:c:\users\ezeri\documents\facultad\poo\ejercicios\postulantesyreclutadores\main.cpp
+1744080958 source:c:\users\ezeri\documents\facultad\poo\ejercicios\postulantesyreclutadores\main.cpp
 	<iostream>
 	<cstring>
 	<string>

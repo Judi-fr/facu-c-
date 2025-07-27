@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1743464602 source:c:\users\maxi_\desktop\clase 31-03 2\main.cpp
+	<iostream>
+
+1743465762 source:c:\users\maxi_\desktop\clase 31-03 2\clsmateria.cpp
+	<iostream>
+	<cstring>
+	"clsMateria.h"
+
+1743465743 c:\users\maxi_\desktop\clase 31-03 2\clsmateria.h
+
+1744669199 source:c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\clsmateria.cpp
+	<iostream>
+	<cstring>
+	"clsMateria.h"
+
+1744669199 c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\clsmateria.h
+
+1744069670 source:c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\main.cpp
+	<iostream>
+	"clsMateria.h"
+
+1744669199 source:c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\clsarchivomaterias.cpp
+	<cstring>
+	<iostream>
+	"clsArchivoMaterias.h"
+
+1744667620 c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\clsarchivomaterias.h
+	"clsMateria.h"
+
+1745274448 source:c:\users\ezeri\documents\facultad\clase 21-04\clase 14-04\clase 07-04\clsarchivomaterias.cpp
+	<cstring>
+	<iostream>
+	"clsArchivoMaterias.h"
+
+1745274449 c:\users\ezeri\documents\facultad\clase 21-04\clase 14-04\clase 07-04\clsarchivomaterias.h
+	"clsMateria.h"
+
+1745274449 c:\users\ezeri\documents\facultad\clase 21-04\clase 14-04\clase 07-04\clsmateria.h
+
+1745274449 source:c:\users\ezeri\documents\facultad\clase 21-04\clase 14-04\clase 07-04\clsmateria.cpp
+	<iostream>
+	<cstring>
+	"clsMateria.h"
+
+1745274449 source:c:\users\ezeri\documents\facultad\clase 21-04\clase 14-04\clase 07-04\main.cpp
+	<iostream>
+	"clsMateria.h"
+	"clsArchivoMaterias.h"
+

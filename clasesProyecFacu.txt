@@ -1,0 +1,37 @@
+clases Suscripciones
+
+private:
+int dni
+char/string nombre
+char/string apellido
+int telefono
+char/string email
+int fecha[3]
+
+metodos();
+
+clase Archivos
+
+private:
+char/string nombreArchi;
+
+metodos();
+
+archivos "canciones"
+archivos "suscripciones"
+
+class cancion
+
+private:
+int numero;
+char/string nombre;
+char/string autor;
+char/string interprete;
+int fecha[3];
+
+class accesos
+
+private:
+char/string cancion;
+char/string suscriptor;
+int fecha[3];

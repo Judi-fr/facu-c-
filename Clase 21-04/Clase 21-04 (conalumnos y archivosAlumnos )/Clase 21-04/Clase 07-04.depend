@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1743464602 source:c:\users\maxi_\desktop\clase 31-03 2\main.cpp
+	<iostream>
+
+1743465762 source:c:\users\maxi_\desktop\clase 31-03 2\clsmateria.cpp
+	<iostream>
+	<cstring>
+	"clsMateria.h"
+
+1743465743 c:\users\maxi_\desktop\clase 31-03 2\clsmateria.h
+
+1745277049 source:c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\clsmateria.cpp
+	<iostream>
+	<cstring>
+	"clsMateria.h"
+	"funciones.h"
+
+1744669199 c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\clsmateria.h
+
+1745279494 source:c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\main.cpp
+	<iostream>
+	"clsMateria.h"
+	"clsArchivoMaterias.h"
+	"clsAlumno.h"
+	"clsArchivoAlumnos.h"
+	"funciones.h"
+
+1744671007 source:c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\clsarchivomaterias.cpp
+	<cstring>
+	<iostream>
+	"clsArchivoMaterias.h"
+
+1744671031 c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\clsarchivomaterias.h
+	"clsMateria.h"
+
+1745277019 source:c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\funciones.cpp
+	<iostream>
+
+1745277019 c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\funciones.h
+
+1745277139 source:c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\clsarchivoalumnos.cpp
+	<cstring>
+	<iostream>
+	"clsArchivoAlumnos.h"
+
+1745276898 c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\clsarchivoalumnos.h
+	"clsAlumno.h"
+
+1745279708 c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\clsalumno.h
+	"clsFecha.h"
+
+1745279708 source:c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\clsalumno.cpp
+	<iostream>
+	<cstring>
+	"clsAlumno.h"
+	"funciones.h"
+
+1745279708 c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\clsfecha.h
+
+1745278652 source:c:\users\maxi_\desktop\proyectos programacion 2\clase 07-04\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+

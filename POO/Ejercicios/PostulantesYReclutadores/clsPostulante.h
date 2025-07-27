@@ -7,15 +7,17 @@ class Postulante{
     private:
         int _edad;
         int _experiencia;
-        string _nombre;
-        string _puesto;
+        char _nombre[30];
+        char _puesto[30];
         string _evaluacion="sin evaluar"; ///    sin evaluar / paso / no paso
         string _razon;
 
     public:
-        Postulante(string , int , string , int );
+        ///Postulante(string , int , string , int );
         pair<int,int> evaluar(int ,int , string ,string ,string , int );
+        void mostrarValores();
         void mostrarResultados();
+        void cargar();
 
 };
 
